@@ -200,7 +200,12 @@ DEPENDENCIES
   ruby-debug19
   rubypants (~> 0.2.0)
   simplecov
-  sqlite3
   thin
   uuidtools (~> 2.1.1)
   webrat
+
+RUBY VERSION
+   ruby 1.9.3p551
+
+BUNDLED WITH
+   1.16.6
